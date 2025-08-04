@@ -1,5 +1,4 @@
-# GALS-CA
-****GALS-CA:**** AI-based LMs screening model with contrast agent knowledge
+# ****GALS-CA**** : AI-based LMs screening model with contrast agent knowledge
 
 This repository contains the code of our paper "Generative AI enables origin identification of liver metastases using non-contrast CT with contrast agents knowledge".
 
