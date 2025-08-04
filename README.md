@@ -4,9 +4,6 @@
 This repository contains the code of our paper "Generative AI enables origin identification of liver metastases using non-contrast CT with contrast agents knowledge".
 
 
-- ### System Requirements
-This code has been tested on Ubuntu in PyTorch and an NVIDIA GeForce RTX 3090 GPU and an NVIDIA GeForce RTX 2080 Ti GPU.
-
 # 1. Setup Environment
 In order to run our model, we suggest you create a virtual environment
 ```
